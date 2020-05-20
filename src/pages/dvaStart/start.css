@@ -1,0 +1,16 @@
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border: 1px solid #ddd;
+  box-shadow:inset 0 0 10px #F279E4;
+  text-align: center;
+}
+.box input {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding-left: 8px;
+}
+.box button {
+  margin-top: 60px;
+}
